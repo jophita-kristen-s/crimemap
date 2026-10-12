@@ -1,0 +1,251 @@
+incident_id,category,timestamp,latitude,longitude,area,severity,status,notes
+CM-10094,Vandalism,2026-10-12T14:11:20Z,11.955589,79.817084,Lawspet,Medium,Closed,Synthetic sample; not an actual police report
+CM-10145,Fraud,2026-10-11T23:54:37Z,11.938010,79.823865,Rainbow Nagar,Critical,Open,Synthetic sample; not an actual police report
+CM-10021,Vehicle crime,2026-10-11T04:19:51Z,11.958553,79.825381,Thattanchavady,Medium,Open,Synthetic sample; not an actual police report
+CM-10170,Vandalism,2026-10-10T04:37:12Z,11.935427,79.821820,Rainbow Nagar,High,Open,Synthetic sample; not an actual police report
+CM-10026,Public disturbance,2026-10-08T14:32:54Z,11.937094,79.823308,Rainbow Nagar,Low,Open,Synthetic sample; not an actual police report
+CM-10058,Public disturbance,2026-10-06T23:11:50Z,11.934378,79.824882,Rainbow Nagar,High,Closed,Synthetic sample; not an actual police report
+CM-10216,Burglary,2026-10-05T14:51:52Z,11.951781,79.841146,Muthialpet,Critical,Closed,Synthetic sample; not an actual police report
+CM-10048,Theft,2026-10-03T10:45:11Z,11.938214,79.820664,Rainbow Nagar,Medium,Under review,Synthetic sample; not an actual police report
+CM-10193,Theft,2026-10-03T00:08:13Z,11.958157,79.822750,Thattanchavady,Medium,Closed,Synthetic sample; not an actual police report
+CM-10155,Assault,2026-10-01T10:12:05Z,11.935965,79.835167,White Town,Critical,Under review,Synthetic sample; not an actual police report
+CM-10044,Vehicle crime,2026-09-30T22:22:04Z,11.889761,79.810221,Ariyankuppam,Critical,Closed,Synthetic sample; not an actual police report
+CM-10178,Theft,2026-09-30T06:55:53Z,11.934765,79.836610,White Town,Low,Under review,Synthetic sample; not an actual police report
+CM-10246,Public disturbance,2026-09-29T20:47:38Z,11.917936,79.751448,Villianur,Low,Open,Synthetic sample; not an actual police report
+CM-10117,Assault,2026-09-28T23:23:14Z,11.939922,79.830184,Heritage Town,Critical,Open,Synthetic sample; not an actual police report
+CM-10078,Burglary,2026-09-27T03:18:07Z,11.953219,79.806396,Oulgaret,High,Under review,Synthetic sample; not an actual police report
+CM-10189,Fraud,2026-09-25T12:25:08Z,11.955361,79.817736,Lawspet,Medium,Open,Synthetic sample; not an actual police report
+CM-10008,Fraud,2026-09-25T09:06:00Z,11.957142,79.803517,Oulgaret,Medium,Open,Synthetic sample; not an actual police report
+CM-10157,Vehicle crime,2026-09-19T03:19:54Z,11.933556,79.805666,Reddiarpalayam,Medium,Open,Synthetic sample; not an actual police report
+CM-10015,Vehicle crime,2026-09-19T00:30:50Z,11.934225,79.833976,White Town,Medium,Closed,Synthetic sample; not an actual police report
+CM-10186,Fraud,2026-09-16T12:55:07Z,11.953703,79.805724,Oulgaret,Low,Closed,Synthetic sample; not an actual police report
+CM-10070,Vehicle crime,2026-09-16T09:50:50Z,11.890355,79.814656,Ariyankuppam,High,Open,Synthetic sample; not an actual police report
+CM-10064,Public disturbance,2026-09-16T07:25:43Z,11.915421,79.830337,Mudaliarpet,Critical,Closed,Synthetic sample; not an actual police report
+CM-10124,Theft,2026-09-14T22:55:24Z,11.887308,79.811024,Ariyankuppam,Medium,Closed,Synthetic sample; not an actual police report
+CM-10036,Theft,2026-09-13T09:11:29Z,11.940413,79.830590,Heritage Town,Low,Closed,Synthetic sample; not an actual police report
+CM-10237,Theft,2026-09-13T08:31:10Z,11.888116,79.810953,Ariyankuppam,Medium,Under review,Synthetic sample; not an actual police report
+CM-10038,Public disturbance,2026-09-12T10:57:46Z,11.953324,79.807465,Oulgaret,High,Closed,Synthetic sample; not an actual police report
+CM-10228,Public disturbance,2026-09-09T18:12:21Z,11.932446,79.807011,Reddiarpalayam,High,Open,Synthetic sample; not an actual police report
+CM-10051,Theft,2026-09-09T04:00:27Z,11.934518,79.824665,Rainbow Nagar,Low,Closed,Synthetic sample; not an actual police report
+CM-10131,Assault,2026-09-07T13:11:33Z,11.967878,79.693724,Thirubuvanai,Medium,Closed,Synthetic sample; not an actual police report
+CM-10136,Theft,2026-09-05T22:17:20Z,11.956806,79.824269,Thattanchavady,Critical,Under review,Synthetic sample; not an actual police report
+CM-10087,Vandalism,2026-09-04T04:55:40Z,11.956260,79.818547,Lawspet,High,Under review,Synthetic sample; not an actual police report
+CM-10034,Public disturbance,2026-09-02T13:40:18Z,11.956977,79.817385,Lawspet,Critical,Under review,Synthetic sample; not an actual police report
+CM-10176,Assault,2026-09-02T08:08:45Z,11.940151,79.832485,Heritage Town,Medium,Closed,Synthetic sample; not an actual police report
+CM-10027,Theft,2026-08-31T19:55:31Z,12.025657,79.853144,Kalapet,Critical,Open,Synthetic sample; not an actual police report
+CM-10004,Vehicle crime,2026-08-31T16:17:50Z,11.916338,79.829827,Mudaliarpet,Low,Under review,Synthetic sample; not an actual police report
+CM-10080,Vehicle crime,2026-08-29T00:57:23Z,11.958061,79.826109,Thattanchavady,High,Open,Synthetic sample; not an actual police report
+CM-10240,Burglary,2026-08-28T21:41:40Z,11.889609,79.812142,Ariyankuppam,Medium,Under review,Synthetic sample; not an actual police report
+CM-10141,Vandalism,2026-08-28T20:08:02Z,11.956083,79.819614,Lawspet,Medium,Open,Synthetic sample; not an actual police report
+CM-10217,Public disturbance,2026-08-27T02:42:43Z,11.956723,79.807591,Oulgaret,Critical,Under review,Synthetic sample; not an actual police report
+CM-10016,Vehicle crime,2026-08-22T08:31:03Z,11.958669,79.823283,Thattanchavady,Critical,Open,Synthetic sample; not an actual police report
+CM-10169,Theft,2026-08-22T02:17:51Z,11.932491,79.834153,White Town,Critical,Under review,Synthetic sample; not an actual police report
+CM-10032,Assault,2026-08-21T22:51:29Z,11.937962,79.822726,Rainbow Nagar,Critical,Closed,Synthetic sample; not an actual police report
+CM-10151,Public disturbance,2026-08-21T18:26:47Z,11.957885,79.817211,Lawspet,Critical,Closed,Synthetic sample; not an actual police report
+CM-10195,Vandalism,2026-08-20T17:51:27Z,11.934080,79.806410,Reddiarpalayam,Medium,Open,Synthetic sample; not an actual police report
+CM-10098,Assault,2026-08-20T05:38:39Z,11.954223,79.838702,Muthialpet,Low,Closed,Synthetic sample; not an actual police report
+CM-10203,Burglary,2026-08-19T12:45:40Z,11.950327,79.837578,Muthialpet,Medium,Under review,Synthetic sample; not an actual police report
+CM-10086,Vandalism,2026-08-18T04:46:49Z,12.026508,79.853892,Kalapet,High,Open,Synthetic sample; not an actual police report
+CM-10247,Vandalism,2026-08-17T20:01:15Z,11.939571,79.829535,Heritage Town,High,Closed,Synthetic sample; not an actual police report
+CM-10106,Vandalism,2026-08-17T10:42:42Z,11.933042,79.808859,Reddiarpalayam,Medium,Closed,Synthetic sample; not an actual police report
+CM-10202,Public disturbance,2026-08-16T17:53:35Z,11.960614,79.823185,Thattanchavady,Low,Under review,Synthetic sample; not an actual police report
+CM-10065,Vehicle crime,2026-08-11T14:42:47Z,11.932394,79.804510,Reddiarpalayam,Medium,Open,Synthetic sample; not an actual police report
+CM-10095,Vehicle crime,2026-08-10T01:29:37Z,11.920142,79.749087,Villianur,High,Closed,Synthetic sample; not an actual police report
+CM-10147,Vandalism,2026-08-08T10:08:33Z,11.960843,79.824700,Thattanchavady,Medium,Open,Synthetic sample; not an actual police report
+CM-10222,Assault,2026-08-05T00:26:21Z,11.966546,79.696260,Thirubuvanai,Medium,Open,Synthetic sample; not an actual police report
+CM-10130,Vehicle crime,2026-08-03T14:45:00Z,11.967010,79.697090,Thirubuvanai,High,Closed,Synthetic sample; not an actual police report
+CM-10101,Vehicle crime,2026-08-02T19:06:06Z,11.920121,79.747539,Villianur,High,Under review,Synthetic sample; not an actual police report
+CM-10140,Assault,2026-08-01T21:55:38Z,12.027238,79.852895,Kalapet,Medium,Under review,Synthetic sample; not an actual police report
+CM-10047,Public disturbance,2026-08-01T17:46:49Z,11.935864,79.835133,White Town,High,Open,Synthetic sample; not an actual police report
+CM-10183,Public disturbance,2026-07-31T01:25:50Z,11.933596,79.836867,White Town,Medium,Closed,Synthetic sample; not an actual police report
+CM-10154,Public disturbance,2026-07-30T07:47:16Z,11.888186,79.812165,Ariyankuppam,Low,Under review,Synthetic sample; not an actual police report
+CM-10099,Vandalism,2026-07-29T09:46:54Z,11.932772,79.834195,White Town,Medium,Open,Synthetic sample; not an actual police report
+CM-10005,Theft,2026-07-28T19:00:35Z,11.958509,79.823772,Thattanchavady,High,Open,Synthetic sample; not an actual police report
+CM-10160,Public disturbance,2026-07-26T16:38:26Z,11.915813,79.830388,Mudaliarpet,Medium,Open,Synthetic sample; not an actual police report
+CM-10010,Vandalism,2026-07-26T09:42:55Z,11.957489,79.817564,Lawspet,Critical,Open,Synthetic sample; not an actual police report
+CM-10081,Assault,2026-07-25T09:32:43Z,11.934971,79.808150,Reddiarpalayam,Medium,Open,Synthetic sample; not an actual police report
+CM-10056,Vehicle crime,2026-07-24T13:48:49Z,11.966838,79.693326,Thirubuvanai,High,Open,Synthetic sample; not an actual police report
+CM-10139,Vehicle crime,2026-07-24T01:11:28Z,11.957128,79.821882,Thattanchavady,Critical,Open,Synthetic sample; not an actual police report
+CM-10093,Vehicle crime,2026-07-23T13:08:33Z,11.937876,79.825021,Rainbow Nagar,Low,Closed,Synthetic sample; not an actual police report
+CM-10148,Vehicle crime,2026-07-22T10:05:16Z,11.953295,79.802422,Oulgaret,Critical,Under review,Synthetic sample; not an actual police report
+CM-10177,Assault,2026-07-21T23:21:29Z,11.915200,79.828384,Mudaliarpet,Critical,Closed,Synthetic sample; not an actual police report
+CM-10225,Theft,2026-07-20T23:00:18Z,11.959736,79.822501,Thattanchavady,Low,Closed,Synthetic sample; not an actual police report
+CM-10159,Assault,2026-07-19T15:56:41Z,11.967834,79.693541,Thirubuvanai,Medium,Closed,Synthetic sample; not an actual police report
+CM-10220,Vandalism,2026-07-18T22:26:59Z,12.024114,79.856746,Kalapet,Critical,Closed,Synthetic sample; not an actual police report
+CM-10069,Public disturbance,2026-07-18T19:09:27Z,11.917787,79.828998,Mudaliarpet,Low,Open,Synthetic sample; not an actual police report
+CM-10149,Fraud,2026-07-18T16:38:31Z,11.933806,79.833216,White Town,Low,Under review,Synthetic sample; not an actual police report
+CM-10187,Vehicle crime,2026-07-18T13:35:40Z,12.026885,79.854517,Kalapet,High,Open,Synthetic sample; not an actual police report
+CM-10190,Theft,2026-07-18T07:23:39Z,11.936590,79.822156,Rainbow Nagar,Medium,Closed,Synthetic sample; not an actual police report
+CM-10167,Assault,2026-07-17T22:31:00Z,11.933144,79.807945,Reddiarpalayam,High,Open,Synthetic sample; not an actual police report
+CM-10042,Vehicle crime,2026-07-15T11:40:21Z,12.025911,79.852482,Kalapet,Medium,Under review,Synthetic sample; not an actual police report
+CM-10166,Theft,2026-07-14T19:28:36Z,11.919410,79.747738,Villianur,Medium,Open,Synthetic sample; not an actual police report
+CM-10123,Vehicle crime,2026-07-13T13:30:26Z,11.957206,79.818064,Lawspet,Critical,Under review,Synthetic sample; not an actual police report
+CM-10233,Public disturbance,2026-07-12T17:58:05Z,11.956217,79.819062,Lawspet,Low,Open,Synthetic sample; not an actual police report
+CM-10019,Public disturbance,2026-07-11T15:07:05Z,11.919177,79.752489,Villianur,High,Open,Synthetic sample; not an actual police report
+CM-10249,Vehicle crime,2026-07-11T00:27:53Z,11.959957,79.825413,Thattanchavady,Medium,Closed,Synthetic sample; not an actual police report
+CM-10039,Fraud,2026-07-10T15:46:22Z,11.918704,79.750584,Villianur,High,Closed,Synthetic sample; not an actual police report
+CM-10091,Theft,2026-07-08T13:03:57Z,11.952948,79.805064,Oulgaret,Low,Closed,Synthetic sample; not an actual police report
+CM-10185,Assault,2026-07-08T12:01:19Z,11.935730,79.808367,Reddiarpalayam,Low,Open,Synthetic sample; not an actual police report
+CM-10250,Vehicle crime,2026-07-08T09:13:26Z,11.958234,79.819195,Lawspet,Low,Closed,Synthetic sample; not an actual police report
+CM-10235,Vehicle crime,2026-07-07T23:41:22Z,11.957264,79.816205,Lawspet,Critical,Open,Synthetic sample; not an actual police report
+CM-10248,Vandalism,2026-07-07T02:44:54Z,11.920222,79.747879,Villianur,Low,Closed,Synthetic sample; not an actual police report
+CM-10196,Fraud,2026-07-06T20:53:15Z,11.956093,79.814840,Lawspet,Medium,Under review,Synthetic sample; not an actual police report
+CM-10043,Burglary,2026-07-06T00:59:27Z,11.952790,79.805335,Oulgaret,Low,Open,Synthetic sample; not an actual police report
+CM-10207,Vehicle crime,2026-07-05T17:05:32Z,11.955343,79.819143,Lawspet,Medium,Open,Synthetic sample; not an actual police report
+CM-10197,Public disturbance,2026-07-05T16:46:16Z,11.934015,79.820583,Rainbow Nagar,Critical,Closed,Synthetic sample; not an actual police report
+CM-10221,Public disturbance,2026-07-04T08:42:11Z,11.966842,79.807811,Mettupalayam,Low,Closed,Synthetic sample; not an actual police report
+CM-10049,Burglary,2026-06-30T20:41:47Z,11.934978,79.804715,Reddiarpalayam,Critical,Closed,Synthetic sample; not an actual police report
+CM-10211,Vehicle crime,2026-06-27T08:18:21Z,11.954123,79.802781,Oulgaret,Medium,Open,Synthetic sample; not an actual police report
+CM-10110,Assault,2026-06-26T10:51:32Z,11.967308,79.697609,Thirubuvanai,High,Closed,Synthetic sample; not an actual police report
+CM-10192,Vehicle crime,2026-06-25T14:18:04Z,11.919761,79.752429,Villianur,Medium,Under review,Synthetic sample; not an actual police report
+CM-10205,Public disturbance,2026-06-24T20:07:19Z,11.888811,79.814457,Ariyankuppam,Critical,Open,Synthetic sample; not an actual police report
+CM-10006,Theft,2026-06-24T14:14:41Z,11.933066,79.804983,Reddiarpalayam,High,Closed,Synthetic sample; not an actual police report
+CM-10040,Vandalism,2026-06-24T13:34:00Z,11.968967,79.696380,Thirubuvanai,Low,Open,Synthetic sample; not an actual police report
+CM-10213,Burglary,2026-06-21T09:39:22Z,11.960158,79.825776,Thattanchavady,High,Closed,Synthetic sample; not an actual police report
+CM-10037,Assault,2026-06-20T03:49:58Z,11.936107,79.833109,White Town,Low,Closed,Synthetic sample; not an actual police report
+CM-10118,Assault,2026-06-19T07:14:22Z,11.887762,79.811003,Ariyankuppam,Low,Open,Synthetic sample; not an actual police report
+CM-10144,Theft,2026-06-18T20:13:51Z,11.955790,79.818073,Lawspet,Medium,Under review,Synthetic sample; not an actual police report
+CM-10182,Public disturbance,2026-06-18T20:07:20Z,11.920859,79.748018,Villianur,High,Under review,Synthetic sample; not an actual police report
+CM-10214,Burglary,2026-06-18T12:14:23Z,11.958184,79.818461,Lawspet,Medium,Under review,Synthetic sample; not an actual police report
+CM-10024,Theft,2026-06-17T22:54:44Z,11.951422,79.839319,Muthialpet,High,Closed,Synthetic sample; not an actual police report
+CM-10057,Public disturbance,2026-06-17T10:25:55Z,11.953064,79.803570,Oulgaret,High,Open,Synthetic sample; not an actual police report
+CM-10138,Theft,2026-06-15T19:56:38Z,11.914894,79.827570,Mudaliarpet,Medium,Open,Synthetic sample; not an actual police report
+CM-10084,Vehicle crime,2026-06-15T13:08:59Z,11.964094,79.806440,Mettupalayam,Low,Open,Synthetic sample; not an actual police report
+CM-10150,Public disturbance,2026-06-14T19:29:43Z,11.968996,79.696125,Thirubuvanai,High,Under review,Synthetic sample; not an actual police report
+CM-10179,Vehicle crime,2026-06-12T23:19:34Z,11.950791,79.837685,Muthialpet,High,Under review,Synthetic sample; not an actual police report
+CM-10134,Burglary,2026-06-09T22:36:20Z,11.938776,79.831665,Heritage Town,Critical,Open,Synthetic sample; not an actual police report
+CM-10239,Assault,2026-06-06T20:24:22Z,11.953191,79.837082,Muthialpet,High,Closed,Synthetic sample; not an actual police report
+CM-10100,Public disturbance,2026-06-06T13:42:25Z,11.932151,79.835411,White Town,Critical,Under review,Synthetic sample; not an actual police report
+CM-10003,Fraud,2026-06-05T19:00:37Z,11.935171,79.820919,Rainbow Nagar,Medium,Open,Synthetic sample; not an actual police report
+CM-10018,Vandalism,2026-06-05T01:06:05Z,12.026407,79.854053,Kalapet,Critical,Under review,Synthetic sample; not an actual police report
+CM-10218,Public disturbance,2026-06-04T11:05:24Z,12.026615,79.852375,Kalapet,Medium,Closed,Synthetic sample; not an actual police report
+CM-10059,Vehicle crime,2026-06-03T00:52:34Z,11.932359,79.806536,Reddiarpalayam,High,Under review,Synthetic sample; not an actual police report
+CM-10184,Theft,2026-06-02T03:56:57Z,11.888216,79.812665,Ariyankuppam,Low,Open,Synthetic sample; not an actual police report
+CM-10077,Assault,2026-06-01T10:30:56Z,11.960072,79.824142,Thattanchavady,Medium,Under review,Synthetic sample; not an actual police report
+CM-10206,Burglary,2026-05-30T16:46:31Z,11.917592,79.826798,Mudaliarpet,High,Under review,Synthetic sample; not an actual police report
+CM-10201,Vehicle crime,2026-05-29T18:08:37Z,11.888340,79.813070,Ariyankuppam,Medium,Under review,Synthetic sample; not an actual police report
+CM-10191,Public disturbance,2026-05-28T14:25:48Z,11.940110,79.833350,Heritage Town,High,Closed,Synthetic sample; not an actual police report
+CM-10234,Theft,2026-05-27T20:15:18Z,11.919729,79.751416,Villianur,Critical,Closed,Synthetic sample; not an actual police report
+CM-10226,Vehicle crime,2026-05-26T10:40:44Z,11.966625,79.694238,Thirubuvanai,Medium,Open,Synthetic sample; not an actual police report
+CM-10011,Theft,2026-05-26T09:10:41Z,11.935195,79.821188,Rainbow Nagar,Medium,Open,Synthetic sample; not an actual police report
+CM-10153,Assault,2026-05-24T02:08:38Z,11.954113,79.840839,Muthialpet,Low,Open,Synthetic sample; not an actual police report
+CM-10229,Vehicle crime,2026-05-23T14:07:25Z,11.956927,79.805949,Oulgaret,Medium,Closed,Synthetic sample; not an actual police report
+CM-10121,Vehicle crime,2026-05-23T07:26:40Z,11.963907,79.809923,Mettupalayam,Medium,Closed,Synthetic sample; not an actual police report
+CM-10113,Theft,2026-05-22T13:38:31Z,11.934430,79.806171,Reddiarpalayam,Critical,Open,Synthetic sample; not an actual police report
+CM-10112,Public disturbance,2026-05-16T23:21:35Z,11.914505,79.829426,Mudaliarpet,High,Closed,Synthetic sample; not an actual police report
+CM-10194,Assault,2026-05-16T18:20:06Z,11.958791,79.826079,Thattanchavady,Medium,Closed,Synthetic sample; not an actual police report
+CM-10012,Assault,2026-05-15T05:58:14Z,11.931857,79.808332,Reddiarpalayam,Medium,Under review,Synthetic sample; not an actual police report
+CM-10013,Theft,2026-05-12T15:58:07Z,11.932787,79.836241,White Town,Low,Open,Synthetic sample; not an actual police report
+CM-10060,Burglary,2026-05-09T17:10:39Z,11.951543,79.837433,Muthialpet,Medium,Open,Synthetic sample; not an actual police report
+CM-10025,Theft,2026-05-07T06:55:09Z,11.957142,79.804122,Oulgaret,Medium,Under review,Synthetic sample; not an actual police report
+CM-10238,Fraud,2026-05-07T06:52:23Z,11.935119,79.805532,Reddiarpalayam,Critical,Under review,Synthetic sample; not an actual police report
+CM-10129,Public disturbance,2026-05-06T10:47:13Z,11.921860,79.750067,Villianur,Medium,Closed,Synthetic sample; not an actual police report
+CM-10115,Fraud,2026-05-05T09:36:19Z,11.957364,79.819567,Lawspet,Low,Under review,Synthetic sample; not an actual police report
+CM-10103,Vandalism,2026-05-05T05:17:08Z,11.954157,79.818102,Lawspet,High,Under review,Synthetic sample; not an actual police report
+CM-10135,Fraud,2026-05-04T13:32:46Z,11.955315,79.806166,Oulgaret,Critical,Closed,Synthetic sample; not an actual police report
+CM-10133,Burglary,2026-05-04T09:09:33Z,11.963786,79.807414,Mettupalayam,Low,Closed,Synthetic sample; not an actual police report
+CM-10075,Vandalism,2026-05-02T11:14:33Z,11.965718,79.806908,Mettupalayam,Low,Open,Synthetic sample; not an actual police report
+CM-10109,Vehicle crime,2026-04-29T08:19:10Z,12.025708,79.853079,Kalapet,Low,Open,Synthetic sample; not an actual police report
+CM-10031,Vehicle crime,2026-04-28T22:56:21Z,12.026028,79.853686,Kalapet,High,Open,Synthetic sample; not an actual police report
+CM-10158,Public disturbance,2026-04-28T22:44:39Z,11.918273,79.750708,Villianur,High,Under review,Synthetic sample; not an actual police report
+CM-10079,Theft,2026-04-27T16:36:03Z,11.966779,79.806095,Mettupalayam,High,Open,Synthetic sample; not an actual police report
+CM-10212,Vehicle crime,2026-04-26T12:12:06Z,11.919162,79.747478,Villianur,Medium,Closed,Synthetic sample; not an actual police report
+CM-10090,Vehicle crime,2026-04-25T21:35:23Z,11.951324,79.840958,Muthialpet,Critical,Under review,Synthetic sample; not an actual police report
+CM-10105,Theft,2026-04-23T05:54:04Z,11.954308,79.815114,Lawspet,Low,Under review,Synthetic sample; not an actual police report
+CM-10104,Vandalism,2026-04-23T02:34:47Z,11.914729,79.831257,Mudaliarpet,High,Under review,Synthetic sample; not an actual police report
+CM-10092,Public disturbance,2026-04-23T00:04:11Z,11.950589,79.836624,Muthialpet,Low,Under review,Synthetic sample; not an actual police report
+CM-10071,Fraud,2026-04-22T02:39:49Z,12.026108,79.854309,Kalapet,High,Under review,Synthetic sample; not an actual police report
+CM-10224,Vandalism,2026-04-21T20:07:27Z,11.955465,79.819156,Lawspet,High,Open,Synthetic sample; not an actual police report
+CM-10181,Theft,2026-04-21T09:03:10Z,12.023741,79.856430,Kalapet,Critical,Open,Synthetic sample; not an actual police report
+CM-10137,Theft,2026-04-19T20:51:04Z,11.918662,79.749628,Villianur,Critical,Under review,Synthetic sample; not an actual police report
+CM-10082,Fraud,2026-04-19T18:39:00Z,11.954819,79.819031,Lawspet,Low,Closed,Synthetic sample; not an actual police report
+CM-10132,Assault,2026-04-17T00:57:12Z,11.953908,79.802884,Oulgaret,Medium,Under review,Synthetic sample; not an actual police report
+CM-10210,Theft,2026-04-16T16:16:08Z,11.932985,79.808197,Reddiarpalayam,Critical,Under review,Synthetic sample; not an actual police report
+CM-10152,Assault,2026-04-14T09:11:31Z,12.025129,79.852957,Kalapet,Medium,Under review,Synthetic sample; not an actual police report
+CM-10009,Vehicle crime,2026-04-14T06:24:00Z,11.938934,79.831881,Heritage Town,High,Under review,Synthetic sample; not an actual police report
+CM-10143,Public disturbance,2026-04-13T14:19:34Z,11.950849,79.840498,Muthialpet,High,Under review,Synthetic sample; not an actual police report
+CM-10163,Assault,2026-04-13T03:11:19Z,11.954573,79.815445,Lawspet,Low,Open,Synthetic sample; not an actual police report
+CM-10053,Theft,2026-04-12T18:44:37Z,11.932026,79.837495,White Town,Low,Closed,Synthetic sample; not an actual police report
+CM-10223,Public disturbance,2026-04-12T15:46:23Z,11.933847,79.834253,White Town,Low,Open,Synthetic sample; not an actual police report
+CM-10062,Assault,2026-04-11T19:14:47Z,11.915559,79.826466,Mudaliarpet,Medium,Closed,Synthetic sample; not an actual police report
+CM-10174,Vandalism,2026-04-11T11:23:05Z,11.949969,79.838529,Muthialpet,Medium,Closed,Synthetic sample; not an actual police report
+CM-10232,Burglary,2026-04-10T22:03:32Z,11.889381,79.810407,Ariyankuppam,Medium,Open,Synthetic sample; not an actual police report
+CM-10029,Fraud,2026-04-10T04:34:25Z,11.917507,79.827742,Mudaliarpet,Medium,Open,Synthetic sample; not an actual police report
+CM-10023,Vandalism,2026-04-10T03:38:01Z,11.921470,79.750003,Villianur,High,Closed,Synthetic sample; not an actual police report
+CM-10017,Theft,2026-04-08T23:10:21Z,11.953648,79.802386,Oulgaret,Medium,Under review,Synthetic sample; not an actual police report
+CM-10061,Vandalism,2026-04-07T07:48:48Z,11.889482,79.814035,Ariyankuppam,Low,Closed,Synthetic sample; not an actual police report
+CM-10055,Vehicle crime,2026-04-06T20:30:19Z,11.914878,79.829764,Mudaliarpet,Medium,Open,Synthetic sample; not an actual police report
+CM-10200,Vandalism,2026-04-05T21:44:14Z,11.888508,79.810107,Ariyankuppam,Low,Under review,Synthetic sample; not an actual police report
+CM-10089,Vehicle crime,2026-04-05T00:40:59Z,12.022813,79.853607,Kalapet,Low,Open,Synthetic sample; not an actual police report
+CM-10219,Theft,2026-04-02T18:43:16Z,11.935923,79.821209,Rainbow Nagar,Medium,Under review,Synthetic sample; not an actual police report
+CM-10164,Public disturbance,2026-04-02T13:58:10Z,11.919188,79.752277,Villianur,Medium,Closed,Synthetic sample; not an actual police report
+CM-10146,Fraud,2026-04-01T15:39:57Z,11.941554,79.830424,Heritage Town,Critical,Under review,Synthetic sample; not an actual police report
+CM-10096,Assault,2026-04-01T02:43:18Z,11.964622,79.807155,Mettupalayam,Medium,Under review,Synthetic sample; not an actual police report
+CM-10097,Vehicle crime,2026-03-31T12:28:31Z,11.932488,79.805137,Reddiarpalayam,Low,Open,Synthetic sample; not an actual police report
+CM-10088,Public disturbance,2026-03-29T06:12:02Z,11.967287,79.692564,Thirubuvanai,Medium,Open,Synthetic sample; not an actual police report
+CM-10204,Fraud,2026-03-25T05:07:57Z,12.023022,79.856937,Kalapet,High,Open,Synthetic sample; not an actual police report
+CM-10243,Burglary,2026-03-24T22:08:10Z,11.939148,79.834547,Heritage Town,Medium,Closed,Synthetic sample; not an actual police report
+CM-10245,Vehicle crime,2026-03-24T05:44:01Z,11.941923,79.831689,Heritage Town,Critical,Under review,Synthetic sample; not an actual police report
+CM-10035,Assault,2026-03-22T17:41:47Z,11.963415,79.808267,Mettupalayam,Critical,Open,Synthetic sample; not an actual police report
+CM-10161,Assault,2026-03-22T11:45:14Z,11.953588,79.838869,Muthialpet,Medium,Closed,Synthetic sample; not an actual police report
+CM-10227,Vehicle crime,2026-03-22T10:39:35Z,11.920005,79.748819,Villianur,High,Under review,Synthetic sample; not an actual police report
+CM-10076,Public disturbance,2026-03-17T12:40:34Z,11.921656,79.751231,Villianur,Low,Under review,Synthetic sample; not an actual police report
+CM-10119,Public disturbance,2026-03-17T04:45:33Z,11.937787,79.822267,Rainbow Nagar,Critical,Closed,Synthetic sample; not an actual police report
+CM-10199,Fraud,2026-03-16T16:22:02Z,11.955748,79.807602,Oulgaret,Critical,Under review,Synthetic sample; not an actual police report
+CM-10188,Fraud,2026-03-14T13:33:28Z,11.915771,79.826400,Mudaliarpet,Medium,Under review,Synthetic sample; not an actual police report
+CM-10116,Fraud,2026-03-14T04:11:32Z,11.887417,79.809404,Ariyankuppam,Medium,Closed,Synthetic sample; not an actual police report
+CM-10162,Burglary,2026-03-12T21:17:40Z,11.950331,79.837552,Muthialpet,Critical,Closed,Synthetic sample; not an actual police report
+CM-10022,Theft,2026-03-12T09:22:51Z,11.939515,79.829664,Heritage Town,Medium,Closed,Synthetic sample; not an actual police report
+CM-10242,Assault,2026-03-11T17:28:08Z,11.939788,79.832620,Heritage Town,Low,Closed,Synthetic sample; not an actual police report
+CM-10028,Vehicle crime,2026-03-08T18:51:47Z,11.968472,79.695574,Thirubuvanai,High,Closed,Synthetic sample; not an actual police report
+CM-10231,Fraud,2026-03-07T22:43:22Z,12.026540,79.856722,Kalapet,High,Open,Synthetic sample; not an actual police report
+CM-10236,Burglary,2026-03-06T15:33:19Z,11.954058,79.815915,Lawspet,High,Closed,Synthetic sample; not an actual police report
+CM-10054,Burglary,2026-03-05T15:37:34Z,11.935742,79.834700,White Town,High,Closed,Synthetic sample; not an actual police report
+CM-10125,Burglary,2026-03-02T22:52:15Z,11.970195,79.692354,Thirubuvanai,Medium,Closed,Synthetic sample; not an actual police report
+CM-10085,Vandalism,2026-03-01T13:12:05Z,11.934394,79.809131,Reddiarpalayam,Low,Under review,Synthetic sample; not an actual police report
+CM-10114,Fraud,2026-02-23T22:58:44Z,11.955365,79.816906,Lawspet,High,Under review,Synthetic sample; not an actual police report
+CM-10209,Fraud,2026-02-23T17:33:20Z,11.890755,79.812950,Ariyankuppam,High,Closed,Synthetic sample; not an actual police report
+CM-10175,Vehicle crime,2026-02-21T16:05:10Z,11.956221,79.815964,Lawspet,Medium,Closed,Synthetic sample; not an actual police report
+CM-10111,Vehicle crime,2026-02-20T11:09:30Z,11.956346,79.815373,Lawspet,Critical,Open,Synthetic sample; not an actual police report
+CM-10180,Theft,2026-02-20T06:55:52Z,11.920811,79.750707,Villianur,High,Under review,Synthetic sample; not an actual police report
+CM-10241,Assault,2026-02-16T12:55:56Z,11.963928,79.810260,Mettupalayam,Critical,Under review,Synthetic sample; not an actual police report
+CM-10073,Vandalism,2026-02-15T21:21:40Z,11.956811,79.804405,Oulgaret,Medium,Closed,Synthetic sample; not an actual police report
+CM-10108,Public disturbance,2026-02-14T03:09:02Z,11.933846,79.804991,Reddiarpalayam,High,Open,Synthetic sample; not an actual police report
+CM-10126,Fraud,2026-02-13T21:01:39Z,11.965221,79.809683,Mettupalayam,Low,Closed,Synthetic sample; not an actual police report
+CM-10007,Vandalism,2026-02-13T18:57:09Z,11.955934,79.802702,Oulgaret,Low,Under review,Synthetic sample; not an actual police report
+CM-10122,Theft,2026-02-12T12:17:33Z,12.024197,79.852856,Kalapet,Medium,Open,Synthetic sample; not an actual police report
+CM-10066,Vehicle crime,2026-02-09T09:43:36Z,12.025265,79.856559,Kalapet,High,Open,Synthetic sample; not an actual police report
+CM-10041,Vehicle crime,2026-02-08T02:24:38Z,11.917232,79.828730,Mudaliarpet,Critical,Open,Synthetic sample; not an actual police report
+CM-10033,Assault,2026-02-08T00:19:51Z,11.965337,79.807541,Mettupalayam,Critical,Under review,Synthetic sample; not an actual police report
+CM-10156,Burglary,2026-02-07T03:42:57Z,11.934445,79.824245,Rainbow Nagar,High,Open,Synthetic sample; not an actual police report
+CM-10173,Vehicle crime,2026-02-07T00:15:51Z,11.932883,79.835574,White Town,High,Open,Synthetic sample; not an actual police report
+CM-10172,Public disturbance,2026-02-05T06:35:43Z,11.952934,79.806701,Oulgaret,Critical,Open,Synthetic sample; not an actual police report
+CM-10030,Vandalism,2026-02-05T06:10:31Z,11.965773,79.808291,Mettupalayam,High,Closed,Synthetic sample; not an actual police report
+CM-10107,Public disturbance,2026-02-03T23:53:45Z,11.935828,79.832994,White Town,Medium,Closed,Synthetic sample; not an actual police report
+CM-10050,Theft,2026-02-02T05:57:27Z,11.920951,79.748926,Villianur,Low,Under review,Synthetic sample; not an actual police report
+CM-10052,Theft,2026-01-31T20:35:06Z,11.915227,79.826665,Mudaliarpet,Low,Under review,Synthetic sample; not an actual police report
+CM-10244,Vehicle crime,2026-01-29T23:12:51Z,11.957358,79.823687,Thattanchavady,Medium,Closed,Synthetic sample; not an actual police report
+CM-10020,Vandalism,2026-01-29T02:56:26Z,12.023516,79.853555,Kalapet,Critical,Open,Synthetic sample; not an actual police report
+CM-10068,Burglary,2026-01-27T13:33:12Z,11.959439,79.825222,Thattanchavady,Low,Under review,Synthetic sample; not an actual police report
+CM-10063,Fraud,2026-01-23T20:55:57Z,12.024151,79.857682,Kalapet,Critical,Under review,Synthetic sample; not an actual police report
+CM-10128,Vehicle crime,2026-01-22T10:44:18Z,11.942873,79.834187,Heritage Town,Medium,Under review,Synthetic sample; not an actual police report
+CM-10215,Public disturbance,2026-01-22T07:23:29Z,11.965380,79.808238,Mettupalayam,Critical,Under review,Synthetic sample; not an actual police report
+CM-10208,Public disturbance,2026-01-21T14:08:19Z,11.959332,79.825243,Thattanchavady,High,Closed,Synthetic sample; not an actual police report
+CM-10102,Vehicle crime,2026-01-21T00:09:46Z,11.921805,79.747541,Villianur,Low,Under review,Synthetic sample; not an actual police report
+CM-10127,Public disturbance,2026-01-19T11:18:18Z,11.917292,79.826575,Mudaliarpet,Critical,Under review,Synthetic sample; not an actual police report
+CM-10072,Burglary,2026-01-17T09:32:23Z,11.921887,79.748634,Villianur,Critical,Closed,Synthetic sample; not an actual police report
+CM-10230,Theft,2026-01-16T17:07:17Z,11.956186,79.815235,Lawspet,Critical,Open,Synthetic sample; not an actual police report
+CM-10168,Theft,2026-01-16T09:44:10Z,11.967054,79.810406,Mettupalayam,High,Under review,Synthetic sample; not an actual police report
+CM-10045,Burglary,2026-01-16T01:53:27Z,11.953730,79.802848,Oulgaret,Medium,Closed,Synthetic sample; not an actual police report
+CM-10002,Burglary,2026-01-15T07:32:31Z,11.889253,79.814058,Ariyankuppam,Medium,Open,Synthetic sample; not an actual police report
+CM-10198,Assault,2026-01-11T15:37:26Z,11.950682,79.838792,Muthialpet,Low,Under review,Synthetic sample; not an actual police report
+CM-10165,Vehicle crime,2026-01-10T16:51:26Z,11.966469,79.810362,Mettupalayam,Critical,Open,Synthetic sample; not an actual police report
+CM-10083,Assault,2026-01-10T01:04:26Z,11.939510,79.832793,Heritage Town,Low,Open,Synthetic sample; not an actual police report
+CM-10014,Burglary,2026-01-05T14:19:15Z,11.957144,79.818446,Lawspet,Medium,Under review,Synthetic sample; not an actual police report
+CM-10001,Theft,2026-01-03T06:02:34Z,11.886756,79.809533,Ariyankuppam,Low,Open,Synthetic sample; not an actual police report
+CM-10171,Fraud,2026-01-03T01:42:05Z,11.918469,79.749663,Villianur,Low,Under review,Synthetic sample; not an actual police report
+CM-10120,Burglary,2026-01-02T15:40:36Z,11.965090,79.809494,Mettupalayam,Low,Under review,Synthetic sample; not an actual police report
+CM-10067,Vandalism,2026-01-01T23:46:26Z,11.889872,79.812849,Ariyankuppam,High,Closed,Synthetic sample; not an actual police report
+CM-10074,Assault,2026-01-01T23:20:01Z,11.951036,79.836655,Muthialpet,Medium,Under review,Synthetic sample; not an actual police report
+CM-10046,Fraud,2026-01-01T12:53:38Z,11.967076,79.808836,Mettupalayam,Medium,Open,Synthetic sample; not an actual police report
+CM-10142,Vandalism,2026-01-01T02:29:18Z,11.960164,79.825368,Thattanchavady,High,Open,Synthetic sample; not an actual police report

@@ -1,0 +1,1 @@
+/** @type {import('tailwindcss').Config} */ export default {content:['./index.html','./src/**/*.{js,ts,jsx,tsx}'],theme:{extend:{colors:{midnight:'#050b16',panel:'#091426',surface:'#0d1b30',electric:'#1677ff',cyan:'#00d5ff'}}},plugins:[]};
